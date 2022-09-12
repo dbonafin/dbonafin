@@ -1,4 +1,4 @@
-<h2> New Developer in town </h2>
+<h2> There is a brand new Developer in town.. </h2>
 
 📍 Where I Live: Ferrara - Italy
 
