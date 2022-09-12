@@ -1,7 +1,8 @@
-### Hi there 👋
+New developer in town!
 
-<!--
-**dbonafin/dbonafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Where I Live: Ferrara - Italy
+
+🔨 What I do: Full Stack Developer
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
