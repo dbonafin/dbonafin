@@ -1,6 +1,6 @@
 <h2> There is a brand new Developer in town.. </h2>
 
-📍 Where I Live: Ferrara - Italy
+📍 Where I live: Ferrara - Italy
 
 🔨 What I do: Full Stack Developer
 
