@@ -1,4 +1,4 @@
-<h1> Hi there, this is Demian's Github!</h1>
+<h1> Hi there, this is Demian's GitHub!</h1>
 
 📍 Where I live: Ferrara - Italy
 
