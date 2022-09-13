@@ -1,8 +1,8 @@
 <h1> Hi there, this is Demian's GitHub!</h1>
 
-📍 Where I live: Ferrara - Italy
+Where I live? Ferrara - Italy
 
-🔨 What I do: Full Stack Developer
+What I do? Full Stack Developer
 
 <!-- HTML -->
 
