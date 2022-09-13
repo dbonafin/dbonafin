@@ -1,8 +1,10 @@
 <h1> Hi there, this is Demian's GitHub!</h1>
 
-Where I live? Ferrara - Italy
+What I do? Full Stack Developer.
 
-What I do? Full Stack Developer
+Where I live? Ferrara, Italy.
+
+How to contact me? The website in my bio contains all my socials!
 
 <!-- HTML -->
 
