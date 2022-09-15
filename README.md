@@ -13,17 +13,10 @@ How to contact me? The website in my bio contains all my socials!
 <h5 align="center"> Application and Data </h5>
 <div align="center" dir="auto">
   <p dir="auto">
-       <img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-       %23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
+       <img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-       %23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 39px">
        <img src="https://img.stackshare.io/service/6727/css.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 50px">
-       <img src="https://img.stackshare.io/service/1209/javascript.jpeg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://img.stackshare.io/service/3837/paeckCWC.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">   
-     <img src="https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://ih1.redbubble.net/image.1637718590.1604/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://img.stackshare.io/service/1025/logo-mysql-170x170.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://img.stackshare.io/service/1171/jCR2zNJV.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-      
+       <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 34px">
+      <p> And more.. Check my website for the whole stack! </p>
   </p>
 </div>
 
@@ -33,8 +26,8 @@ How to contact me? The website in my bio contains all my socials!
 <div align="center" dir="auto">
   <p dir="auto">
        <img src="https://img.stackshare.io/service/1046/git.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-       %23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-        <img src="https://img.stackshare.io/service/2172/yxOkf2Gp_400x400.jpg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
+       <img src="https://www.geekandjob.com/uploads/wiki/c620b14fbbc044bda55703f69c04b565.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 45px">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
   </p>
 </div>
 
@@ -44,9 +37,9 @@ How to contact me? The website in my bio contains all my socials!
 <h5 align="center"> Utilities </h5>
 <div align="center" dir="auto">
   <p dir="auto">
-       <img src="https://img.stackshare.io/service/1336/xWMRvm_5_400x400.png" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-       %23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-       <img src="https://img.stackshare.io/service/675/RNiSRYOF_400x400.jpg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
-    <img src="https://img.stackshare.io/service/6083/oD_oPSBP_400x400.jpg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
+       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-       %23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
+       <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 38px">
+    <img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg" alt="tech stack" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?    style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="width: 40px">
       
   </p>
 </div>
