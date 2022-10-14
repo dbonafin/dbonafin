@@ -1,4 +1,4 @@
-<h1> Hi there, this is Demian's GitHub!</h1>
+<h1> Hi there!</h1>
 
 What I do? Full Stack Development.
 
