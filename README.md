@@ -1,10 +1,10 @@
 <h1> Hi there!</h1>
 
-What I do? Full Stack Development.
+Di cosa mi occupo? Frontend Development.
 
-Where I live? Ferrara, Italy.
+Dove mi trovo? Ferrara, Italia.
 
-How to contact me? Check my website!
+Come contattarmi? Check my website!
 
 <!-- HTML -->
 
