@@ -42,7 +42,7 @@ Come contattarmi? Check my website!
   
   </p>
   
- <p> And many more..</p>
+ <p> E non solo.. </p>
 
 </div>
 
